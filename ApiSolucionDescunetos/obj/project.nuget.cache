@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rgBBj5oE8+l7dEmK+Q409/5ws9UlFpK65KzxV1wAc6A++WuihpRyiNlHRNsT4TO9U1PI2i0RrqnJP455mXgEZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joseluis\\source\\repos\\ApiSolucionDescunetos\\ApiSolucionDescunetos\\ApiSolucionDescunetos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joseluis\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\joseluis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
